@@ -1,0 +1,4 @@
+cons
+module.exports = {
+  entry
+}
